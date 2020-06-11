@@ -6,6 +6,9 @@ namespace PartsUnlimited.Models
     public class Category
     {
         // My third change
+        // My last message
+
+        //last
         public int CategoryId { get; set; }
 
         [Required]
